@@ -13,7 +13,7 @@ import Button from "./Button.vue";
       height="288"
       alt=""
       decode="async"
-      class="w-full aspect-[340/288]"
+      class="w-full aspect-[340/288] object-cover"
     />
     <div class="py-6 px-4">
       <ul class="flex items-center gap-1 relative z-10">
@@ -22,7 +22,7 @@ import Button from "./Button.vue";
         </li>
       </ul>
       <h3 class="font-bold text-lg mt-2 mb-3 text-balance">
-        Top 5 Living Room Inspiration
+        Top 5 Living Room Inspirations
       </h3>
       <p class="text-neutral-600 mb-6">
         Curated vibrants colors for your living, make it pop & calm in the same
