@@ -21,7 +21,7 @@ import Button from "./Button.vue";
           <CategoryTag href="#1"> Interior </CategoryTag>
         </li>
       </ul>
-      <h3 class="font-bold text-lg mt-2 mb-3 text-balance">
+      <h3 class="font-semibold text-lg mt-2 mb-3 text-balance">
         Top 5 Living Room Inspirations
       </h3>
       <p class="text-neutral-600 mb-6">
