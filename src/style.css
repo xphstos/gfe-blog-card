@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply font-medium text-neutral-900 bg-[radial-gradient(circle_at_top_left,#F9FAFB,#D2D6DB)];
+  }
+}
